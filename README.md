@@ -1,3 +1,8 @@
+https://romantic-northcutt-6b4100.netlify.app/
+
+Small app that allow you to create dates, remove and storage them at the local storage.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
